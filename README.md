@@ -47,5 +47,36 @@ In this challenge, you'll use your knowledge of SparkSQL to determine key metric
 
 
 ## Summary
+The average price of a four bedroom house sold in each year is:
 
+\$300,263.70 in 2019 \
+\$298,353.78 in 2020 \
+\$301,819.44 in 2021 \
+\$296,363.88 in 2022 
 
+The average price of a three bedroom and three bathroom house sold in each year is:
+
+\$292,859.62 in 2010 \
+\$291,117.47 in 2011 \
+\$293,683.19 in 2012 \
+\$295,962.27 in 2013 \
+\$290,852.27 in 2014 \
+\$288,770.30 in 2015 \
+\$290,555.07 in 2016 \
+\$292,676.79 in 2017 
+
+The average price of a three bedroom, three bathroom, and 2 floor house sold in each year is:
+
+\$285,010.22 in 2010 \
+\$276,553.81 in 2011 \
+\$307,539.97 in 2012 \
+\$303,676.79 in 2013 \
+\$298,264.72 in 2014 \
+\$297,609.97 in 2015 \
+\$293,965.10 in 2016 \
+\$280,317.58 in 2017 
+
+Uncached vs Cached runtime comparison:
+
+Uncached runtime: 0.70 seconds \
+Cached runtime: 0.45 seconds
