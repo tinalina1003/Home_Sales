@@ -54,7 +54,7 @@ The average price of a four bedroom house sold in each year is:
 \$301,819.44 in 2021 \
 \$296,363.88 in 2022 
 
-The average price of a three bedroom and three bathroom house sold in each year is:
+The average price of a three bedroom and three bathroom house built in each year is:
 
 \$292,859.62 in 2010 \
 \$291,117.47 in 2011 \
@@ -65,7 +65,7 @@ The average price of a three bedroom and three bathroom house sold in each year 
 \$290,555.07 in 2016 \
 \$292,676.79 in 2017 
 
-The average price of a three bedroom, three bathroom, and 2 floor house sold in each year is:
+The average price of a three bedroom, three bathroom, and 2 floor house built in each year is:
 
 \$285,010.22 in 2010 \
 \$276,553.81 in 2011 \
